@@ -1,0 +1,57 @@
+colors
+viola 710590
+giallo f6aa08
+
+---------------------------------------------
+content
+
+---------------------------------------------
+about us
+our vision
+Java è un linguaggio di programmazione aziendale con 20 anni di storia.
+Sono stati e vengono tuttora sviluppati molti prodotti, molti servizi, molti strumenti.
+Naturale che si sviluppi un gruppo di utenti, una comunità.
+Noi facciamo rete di competenza per restare aggiornati.
+
+our ojectives
+Diffondere conoscenza per restare aggiornati.
+
+our approach
+Il passaparola ed il contatto tra professionisti ed utenti.
+Incontri periodici e una mailing list sono gli strumenti che usiamo per tenerci in contatto.
+
+our process
+link jugtaas
+sponsor
+
+
+---------------------------------------------
+quicks
+una mattina di presentazioni brevi da 20 minuti su un tema specifico di Java
+che può riguardare la prodotti, la metodologia, e gli strumenti
+
+1 Simone Bordet
+2 Tiziano Lattisi
+3 Mattia Martinelli
+4 Alex Mario Santini
+5 Davide Montesin
+6 Paolo D'Incau
+
+---------------------------------------------
+sprint
+Un pomeriggio di attività mirate al conseguimento di uno specifico obiettivo.
+Spazio alla scrittura di codice compatto,  di qualità. Codice pulito, soluzioni eleganti.
+
+Regole
+Il sistema da sviluppare sarà delineato il giorno dell'evento con un foglio requisiti.
+Lo sviluppo sarà a strumento e librerie libere.
+
+La giuria
+Persone di varia esperienza pluriennale in applicazioni Java facenti parte del Java User Group.
+
+Vincite
+Per tutti i partecipanti una maglietta evento e per i vincitori
+in palio un riconoscimento del gruppo per la qualità ed eleganza del codice prodotto.
+
+In sala saranno presenti aziende  alla ricerca di personale,
+con cui nelle giornate a seguire concordare un colloquio per l'assunzione.
