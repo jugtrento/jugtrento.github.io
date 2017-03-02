@@ -11,6 +11,7 @@
    c1. About Section
    c2. Quicks Section
    c3. Sprint Section
+   c4. Dojo Section
    d. Location Section
    e. Footer
 
@@ -415,6 +416,51 @@ ul#nav li.current a { color: #f6aa08; }
    margin-bottom: 12px;
 }
 
+
+/* ------------------------------------------------------------------ */
+/* c. Dojo Section
+/* ------------------------------------------------------------------ */
+
+#dojo {
+	background: #710590;
+	color: #fff;
+   padding-top: 96px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+#dojo a, #dojo a:visited  { color: #f6aa08; }
+#dojo a:hover, #dojo a:focus { color: #fff; }
+
+.section-header,
+.section-content {
+	max-width: 880px;
+}
+#dojo .section-header {
+	text-align: center;
+	margin-bottom: 12px;
+}
+#dojo .section-header .icon-wrap {
+	font-size: 60px;
+	margin-bottom: 18px;
+	color: #f6aa08;
+}
+#dojo .section-header h1 {
+   font: 30px/36px 'montserrat-bold', sans-serif;
+   color: #f6aa08;
+   margin-bottom: 12px;
+   padding: 0 15%;
+}
+#dojo .section-header p {
+	color: #fff;
+	padding: 0 3%;
+}
+#dojo h3 {
+   font: 15px/24px 'montserrat-bold', sans-serif;
+   color: #f6aa08;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   margin-bottom: 12px;
+}
 
 
 
