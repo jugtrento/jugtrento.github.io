@@ -1,4 +1,4 @@
 jugtrento.github.io
 ===================
 
-A repo for sharing and collaborate on site content jugtaas.org [http://www.jugtaas.org]
+A repo for sharing and collaborate on site content www.jugtaas.org [http://www.jugtaas.org]
