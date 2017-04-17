@@ -499,8 +499,8 @@ ul#nav li.current a { color: #f6aa08; }
 	margin: 0 auto;
 }
 #call-to-action .button {
-	background: #710590;
-	color: #fff !important;
+	background: #f1f590;
+	color: #000 !important;
 }
 #call-to-action .button:hover,
 #call-to-action .button:active {
