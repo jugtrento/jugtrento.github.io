@@ -468,42 +468,42 @@ ul#nav li.current a { color: #f6aa08; }
 
 /* Call To Action
 ------------------------------------------------------------------ */
-#call-to-action {
+#call2action {
 	padding-top: 30px;
    text-align: center;
 }
-#call-to-action .section-ads {
+#call2action .section-ads {
 	max-width: 880px;
 	padding-top: 36px;
 	border-top: 1px dotted #4b8f57;
 	border-top: 1px dotted rgba(255, 255, 255, .2);
 }
-#call-to-action h2 {
+#call2action h2 {
    font: 30px/36px 'montserrat-bold', sans-serif;
    color: #710590;
    letter-spacing: -0.5px;
    margin-bottom: 18px;
    padding: 0 15%;
 }
-#call-to-action h2 a { color: #000 !important; }
-#call-to-action p {
+#call2action h2 a { color: #000 !important; }
+#call2action p {
 	color: #fff;
 	padding: 0 8%;
 }
-#call-to-action span {
+#call2action span {
 	font-family: 'merriweather-regular', serif;
 	color: #710590;
 }
-#call-to-action .action a.button {
+#call2action .action a.button {
 	width: 350px;
 	margin: 0 auto;
 }
-#call-to-action .button {
+#call2action .button {
 	background: #f1f590;
 	color: #000 !important;
 }
-#call-to-action .button:hover,
-#call-to-action .button:active {
+#call2action .button:hover,
+#call2action .button:active {
    background: #FFFFFF;
    color: #0D0D0D !important;
 }
